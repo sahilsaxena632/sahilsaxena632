@@ -1,4 +1,4 @@
-# Sahil Saxena 👋
+# Sahil Saxena 
 
 Backend / Full Stack Software Engineer with 3+ years of experience building scalable enterprise-grade applications using **Node.js, Python, React.js, AWS, PostgreSQL, Redis, and Docker**.
 
